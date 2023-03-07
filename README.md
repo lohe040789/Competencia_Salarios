@@ -20,6 +20,6 @@ Como parte del testeo cambiamos los valores de paises por el PIB (producto inter
 
 ## Modelo
 
-Para tener una referencia utilizamos H20 (una plataforma Machine Learning open-source) y nos da el mejor modelo para predecir los salarios con la Transformacion que hemos hecho a los datos.
+Para tener una referencia utilizamos H20 (una plataforma Machine Learning open-source) y nos da el mejor modelo de acuerdo con nuestra tranformacion de los datos para predecir los salarios con la Transformacion que hemos hecho a los datos.
 
 Como Resultado obtuvimos un RMSE: 41571.59477

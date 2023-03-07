@@ -1,5 +1,5 @@
 # Competencia_Salarios
-![Distribucion de Titulos de Data]()
+![Distribucion de Titulos de Data](https://github.com/lohe040789/Competencia_Salarios/blob/main/Imagenes/Imagen1.png)
 
 ## Predicción de sueldo
 
@@ -14,7 +14,8 @@ Nos enfocaremos en cambiar los datos categoricos a cuantitativo tratando de mant
 `One Hot Encoding`: crear una columna para cada valor distinto que exista en la característica que estamos codificando y, para cada registro, marcar con un 1 la columna a la que pertenezca dicho registro y dejar las demás con 0.
 
 Como parte del testeo cambiamos los valores de paises por el PIB (producto interior bruto) de cada uno de ellos, tratando de hacer una relacion entre los datos y la ubicacion tanto de la empresa como la persona.
-![Paises que ofrecen mas puestos de data]()
+
+![Paises que ofrecen mas puestos de data](https://github.com/lohe040789/Competencia_Salarios/blob/main/Imagenes/Imagen2.png)
 
 
 ## Modelo
